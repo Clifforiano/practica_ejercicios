@@ -1,5 +1,14 @@
 <?php
 
+    /*
+    - Crea una clase Producto con propiedades: nombre, precio y stock.
+    - Agrega un método mostrarInfo() que devuelva los datos del producto en una frase.
+    - Instancia 2 productos y usa mostrarInfo() para ver sus datos.
+    - Agrega un método comprar($cantidad) que reste al stock la cantidad indicada, y muestre un mensaje de éxito o error si no hay stock suficiente.
+    - Haz una pequeña simulación en consola (o navegador) con varias compras.
+        
+    */ 
+
     class producto
     {
 
